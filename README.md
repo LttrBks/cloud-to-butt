@@ -1,7 +1,9 @@
-cloud-to-butt
-=============
+Walk to wank
+-----------------
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt'
+Chrome extension that replaces occurrences of 'walk' with 'wank' and variations thereof.
+
+This is just a fork of panicsteve's cloud-to-butt and I have no idea what I am doing.
 
 [Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
 
